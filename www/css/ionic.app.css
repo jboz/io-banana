@@ -9814,3 +9814,19 @@ a.button {
   opacity: 0;
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
+
+.row-title {
+  height: 60px;
+  line-height: 60px;
+  text-transform: uppercase;
+  background-color: #cb314b;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px 4px 0 0;
+  border-radius: 4px 4px 0 0;
+  -webkit-background-clip: padding;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold; }
